@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="535" height="731" viewBox="0 0 535 731" fill="none">
+<defs><style type="text/css"><![CDATA[
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+text,
+tspan {
+    font-family: 'Arimo', Arial, sans-serif !important;
+}
+]]></style></defs><g clip-path="url(#clip0_10032_11612)">
+<path d="M0 9.99998C0 4.47713 4.47715 0 10 0H535V731H10C4.47716 731 0 726.523 0 721V9.99998Z" fill="white"/>
+<mask id="path-2-inside-1_10032_11612" fill="white">
+<path d="M0 0H535V80H0V0Z"/>
+</mask>
+<path d="M535 80V79H0V80V81H535V80Z" fill="#DDDDDD" mask="url(#path-2-inside-1_10032_11612)"/>
+<path d="M514.81 36.0998C514.87 36.1626 514.918 36.2371 514.95 36.319C514.983 36.401 515 36.4889 515 36.5776C515 36.6664 514.983 36.7542 514.95 36.8362C514.918 36.9182 514.87 36.9927 514.81 37.0554C514.749 37.1182 514.677 37.1679 514.599 37.2019C514.52 37.2358 514.435 37.2533 514.35 37.2533C514.264 37.2533 514.18 37.2358 514.101 37.2019C514.022 37.1679 513.95 37.1182 513.89 37.0554L508.5 31.4544L503.11 37.0554C502.988 37.1821 502.823 37.2533 502.65 37.2533C502.478 37.2533 502.312 37.1821 502.19 37.0554C502.069 36.9287 502 36.7568 502 36.5776C502 36.3984 502.069 36.2266 502.19 36.0998L507.581 30.4997L502.19 24.8996C502.069 24.7729 502 24.601 502 24.4218C502 24.2426 502.069 24.0707 502.19 23.944C502.312 23.8173 502.478 23.7461 502.65 23.7461C502.823 23.7461 502.988 23.8173 503.11 23.944L508.5 29.545L513.89 23.944C514.012 23.8173 514.177 23.7461 514.35 23.7461C514.522 23.7461 514.688 23.8173 514.81 23.944C514.931 24.0707 515 24.2426 515 24.4218C515 24.601 514.931 24.7729 514.81 24.8996L509.419 30.4997L514.81 36.0998Z" fill="black"/>
+<path d="M39.16 33.7566L30.2754 28.8953C30.038 28.7641 29.7712 28.6953 29.5 28.6953C29.2288 28.6953 28.962 28.7641 28.7246 28.8953L19.84 33.7586C19.5863 33.8974 19.3745 34.1018 19.2267 34.3505C19.079 34.5991 19.0007 34.8828 19 35.1721V44.828C19.0007 45.1172 19.079 45.401 19.2267 45.6496C19.3745 45.8983 19.5863 46.1027 19.84 46.2415L28.7246 51.1048C28.962 51.236 29.2288 51.3048 29.5 51.3048C29.7712 51.3048 30.038 51.236 30.2754 51.1048L39.16 46.2415C39.4137 46.1027 39.6255 45.8983 39.7733 45.6496C39.921 45.401 39.9993 45.1172 40 44.828V35.1731C39.9999 34.8833 39.9218 34.599 39.7741 34.3497C39.6263 34.1005 39.4142 33.8957 39.16 33.7566ZM29.5 30.3087L37.6112 34.7511L29.5 39.1934L21.3887 34.7511L29.5 30.3087ZM20.6154 36.1645L28.6923 40.5846V49.2461L20.6154 44.829V36.1645ZM30.3077 49.2461V40.5886L38.3846 36.1645V44.825L30.3077 49.2461Z" fill="#C0C0C0"/>
+<text fill="#435FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="63" y="35.5469" font-family="Arimo">649-341-011-0</tspan></text>
+<path d="M189 21.5H215C217.485 21.5 219.5 23.5147 219.5 26V31C219.5 33.4853 217.485 35.5 215 35.5H189C186.515 35.5 184.5 33.4853 184.5 31V26C184.5 23.5147 186.515 21.5 189 21.5Z" fill="#FFF1CC"/>
+<path d="M189 21.5H215C217.485 21.5 219.5 23.5147 219.5 26V31C219.5 33.4853 217.485 35.5 215 35.5H189C186.515 35.5 184.5 33.4853 184.5 31V26C184.5 23.5147 186.515 21.5 189 21.5Z" stroke="#FFD4AE"/>
+<text fill="#E09429" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="190.882" y="31.9668" font-family="Arimo">High</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="63" y="56.1602" font-family="Arimo">FLAT WASHER (FOR CFM56/LP-1B)</tspan></text>
+<g clip-path="url(#clip1_10032_11612)">
+<mask id="path-10-inside-2_10032_11612" fill="white">
+<path d="M0 80H535V137H0V80Z"/>
+</mask>
+<path d="M0 80H535V137H0V80Z" fill="#F4F4F4"/>
+<path d="M535 137V136H0V137V138H535V137Z" fill="#DDDDDD" mask="url(#path-10-inside-2_10032_11612)"/>
+<path d="M22 91.5H195C196.381 91.5 197.5 92.6193 197.5 94V106C197.5 107.381 196.381 108.5 195 108.5H22C20.6193 108.5 19.5 107.381 19.5 106V94C19.5 92.6193 20.6193 91.5 22 91.5Z" fill="#F4F4F4"/>
+<path d="M22 91.5H195C196.381 91.5 197.5 92.6193 197.5 94V106C197.5 107.381 196.381 108.5 195 108.5H22C20.6193 108.5 19.5 107.381 19.5 106V94C19.5 92.6193 20.6193 91.5 22 91.5Z" stroke="#C0C0C0"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="40.6123" y="104.854" font-family="Arimo"> - Low price • Low usage</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="23.4951" y="104.854" font-family="Arimo">LL</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="20" y="126.16" font-family="Arimo">6 - 12 mths historical usage; combined value of LL &amp; LH parts capped at US$20,000.</tspan></text>
+<line x1="33" y1="269.5" x2="502.75" y2="269.5" stroke="#F4F4F4"/>
+<mask id="path-16-inside-3_10032_11612" fill="white">
+<path d="M1 525H535V725H1V525Z"/>
+</mask>
+<path d="M1 525H535V725H1V525Z" fill="white"/>
+<path d="M1 525V526H535V525V524H1V525Z" fill="#F4F4F4" mask="url(#path-16-inside-3_10032_11612)"/>
+<line x1="49" y1="657.5" x2="465" y2="657.5" stroke="#F4F4F4"/>
+<line x1="49" y1="614.5" x2="465" y2="614.5" stroke="#F4F4F4" stroke-dasharray="2 2"/>
+<line x1="33.25" y1="571.5" x2="449.25" y2="571.5" stroke="#F4F4F4" stroke-dasharray="2 2"/>
+<rect x="426" y="607" width="12" height="26" fill="#C9F8FD"/>
+<rect x="426" y="633" width="12" height="24" fill="#65B9C2"/>
+<rect x="453" y="619" width="12" height="11" fill="#C9F8FD"/>
+<rect x="453" y="630" width="12" height="27" fill="#65B9C2"/>
+<rect x="399" y="593" width="12" height="26" fill="#C9F8FD"/>
+<rect x="399" y="619" width="12" height="38" fill="#65B9C2"/>
+<rect x="372" y="607" width="12" height="26" fill="#C9F8FD"/>
+<rect x="372" y="633" width="12" height="24" fill="#65B9C2"/>
+<rect x="48.5" y="675.699" width="16" height="9.6" rx="4.8" fill="#1D75D5"/>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="70.5" y="683.967" font-family="Arimo">New historical (12mths)</tspan></text>
+<rect x="185.5" y="675.699" width="16" height="9.6" rx="4.8" fill="#A3CEFD"/>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="207.5" y="683.967" font-family="Arimo">USM historical (12 mths)</tspan></text>
+<rect x="327.5" y="675.699" width="16" height="9.6" rx="4.8" fill="#65B9C2"/>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="349.5" y="683.967" font-family="Arimo">New forecast (6mths)</tspan></text>
+<rect x="48.5" y="696.699" width="16" height="9.6" rx="4.8" fill="#C9F8FD"/>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="70.5" y="704.967" font-family="Arimo">USM forecast (6mths)</tspan></text>
+<circle cx="378.5" cy="607.5" r="3.5" fill="#0891B2"/>
+<circle cx="405.5" cy="593.5" r="3.5" fill="#0891B2"/>
+<circle cx="432.5" cy="608.5" r="3.5" fill="#0891B2"/>
+<circle cx="459.5" cy="618.5" r="3.5" fill="#0891B2"/>
+<text fill="#9197C8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" font-weight="bold" letter-spacing="0em"><tspan x="366.508" y="580.096" font-family="Arimo">Now</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="47.3398" y="666.096" font-family="Arimo">May</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="128.035" y="666.096" font-family="Arimo">Aug</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="209.23" y="666.096" font-family="Arimo">Nov</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="291.062" y="666.096" font-family="Arimo">Feb</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="371.34" y="666.096" font-family="Arimo">May</tspan></text>
+<text fill="#808080" fill-opacity="0.69" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="8" letter-spacing="0em"><tspan x="452.035" y="666.096" font-family="Arimo">Aug</tspan></text>
+<line x1="363" y1="657" x2="363" y2="575" stroke="#C7C7C7" stroke-width="2" stroke-linecap="square" stroke-dasharray="3 4"/>
+<g clip-path="url(#clip2_10032_11612)">
+<rect x="48.5" y="622" width="12" height="14" fill="#A3CEFD"/>
+<rect x="48.5" y="636" width="12" height="22" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip3_10032_11612)">
+<rect x="75.5" y="599" width="12" height="20" fill="#A3CEFD"/>
+<rect x="75.5" y="619" width="12" height="39" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip4_10032_11612)">
+<rect x="102.5" y="622" width="12" height="17" fill="#A3CEFD"/>
+<rect x="102.5" y="639" width="12" height="19" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip5_10032_11612)">
+<rect x="129.5" y="622" width="12" height="8" fill="#A3CEFD"/>
+<rect x="129.5" y="630" width="12" height="28" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip6_10032_11612)">
+<rect x="156.5" y="622" width="12" height="20" fill="#A3CEFD"/>
+<rect x="156.5" y="642" width="12" height="16" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip7_10032_11612)">
+<rect x="183.5" y="599" width="12" height="20" fill="#A3CEFD"/>
+<rect x="183.5" y="619" width="12" height="39" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip8_10032_11612)">
+<rect x="211" y="599" width="12" height="33" fill="#A3CEFD"/>
+<rect x="211" y="632" width="12" height="27" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip9_10032_11612)">
+<rect x="237.5" y="599" width="12" height="20" fill="#A3CEFD"/>
+<rect x="237.5" y="619" width="12" height="39" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip10_10032_11612)">
+<rect x="265" y="610" width="12" height="20" fill="#A3CEFD"/>
+<rect x="265" y="630" width="12" height="28" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip11_10032_11612)">
+<rect x="291.5" y="627" width="12" height="20" fill="#A3CEFD"/>
+<rect x="291.5" y="647" width="12" height="16" fill="#1D75D5"/>
+</g>
+<g clip-path="url(#clip12_10032_11612)">
+<rect x="318.5" y="627" width="12" height="20" fill="#A3CEFD"/>
+<rect x="318.5" y="647" width="12" height="16" fill="#1D75D5"/>
+</g>
+<rect x="345" y="610" width="12" height="26" fill="#A3CEFD"/>
+<rect x="345" y="636" width="12" height="21" fill="#1D75D5"/>
+<path d="M378 608L403.5 593L432.5 608L457.5 618" stroke="#0891B2" stroke-width="2" stroke-linecap="square" stroke-dasharray="3 4"/>
+<path d="M32.75 544.001V551.201M36.75 540.801V551.201M40.75 544.001V551.201" stroke="#A3CEFD" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="46.75" y="550.16" font-family="Arimo">USAGE HISTORY &amp; FORECAST</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="471.75" y="549.467" font-family="Arimo">HIDE</tspan></text>
+<path d="M502.75 543L505.348 547.5H500.152L502.75 543Z" fill="#4C7FFF"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="33" y="176.16" font-family="Arimo">OVERALL COVERAGE</tspan></text>
+<line x1="262.73" y1="197" x2="262.73" y2="208" stroke="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="267.391" y="205.967" font-family="Arimo">MIN (6m)</tspan></text>
+<line x1="33.75" y1="197" x2="33.75" y2="208" stroke="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="38.3018" y="205.967" font-family="Arimo">0m</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="442.454" y="205.967" font-family="Arimo">MAX (12m)</tspan></text>
+<line x1="498.742" y1="197" x2="498.742" y2="208" stroke="#878682"/>
+<g clip-path="url(#clip13_10032_11612)">
+<rect x="33.25" y="216" width="467" height="12" rx="6" fill="#EFEFEF"/>
+<rect x="33.375" y="212" width="193" height="19" fill="#059669"/>
+<mask id="path-87-inside-4_10032_11612" fill="white">
+<path d="M226.375 212H341.375V231H226.375V212Z"/>
+</mask>
+<path d="M226.375 212H341.375V231H226.375V212Z" fill="#4C7FFF"/>
+<path d="M226.375 231H227.375V212H226.375H225.375V231H226.375Z" fill="white" mask="url(#path-87-inside-4_10032_11612)"/>
+<mask id="path-89-inside-5_10032_11612" fill="white">
+<path d="M341.375 212H501.375V231H341.375V212Z"/>
+</mask>
+<path d="M341.375 212H501.375V231H341.375V212Z" fill="#B3B3B3"/>
+<path d="M341.375 231H342.375V212H341.375H340.375V231H341.375Z" fill="white" mask="url(#path-89-inside-5_10032_11612)"/>
+</g>
+<g clip-path="url(#clip14_10032_11612)">
+<rect width="467" height="7" rx="3.5" transform="matrix(-1 0 0 1 500.25 230)" fill="#EDEDED"/>
+<rect width="313" height="9" transform="matrix(-1 0 0 1 500.25 229)" fill="#EFEFEF"/>
+<rect width="154" height="9" transform="matrix(-1 0 0 1 187.25 229)" fill="#F06A6A"/>
+</g>
+<circle cx="38.25" cy="252" r="5" fill="#059669"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="49.25" y="256.16" font-family="Arimo">NEW</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="80.5977" y="256.16" font-family="Arimo">(10)</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="77.2578" y="256.16" font-family="Arimo"> </tspan></text>
+<circle cx="147.25" cy="252" r="5" fill="#4C7FFF"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="158.25" y="256.16" font-family="Arimo">USM</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="188.262" y="256.16" font-family="Arimo">(6)</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="184.922" y="256.16" font-family="Arimo"> </tspan></text>
+<circle cx="248.25" cy="252" r="5" fill="#F06A6A"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="314.656" y="256.16" font-family="Arimo">-8</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="310.66" y="256.16" font-family="Arimo">(</tspan><tspan x="325.332" y="256.16" font-family="Arimo">)</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="259.25" y="256.16" font-family="Arimo">Dues out </tspan></text>
+<circle cx="375.25" cy="252" r="5" fill="#B3B3B3"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="386.25" y="256.16" font-family="Arimo">Quantity to buy </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="470.379" y="256.16" font-family="Arimo">(</tspan><tspan x="481.055" y="256.16" font-family="Arimo">)</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="474.375" y="256.16" font-family="Arimo">8</tspan></text>
+<rect x="388.75" y="165" width="18" height="18" rx="3" fill="#EBE2F6"/>
+<path d="M395.676 175.365L402.96 168.174C403.015 168.119 403.08 168.075 403.152 168.045C403.224 168.015 403.301 168 403.379 168C403.457 168 403.534 168.015 403.606 168.045C403.678 168.075 403.743 168.119 403.798 168.174L405.576 169.922C405.631 169.977 405.675 170.042 405.705 170.114C405.735 170.186 405.75 170.263 405.75 170.341C405.75 170.419 405.735 170.496 405.705 170.568C405.675 170.64 405.631 170.705 405.576 170.76L396.065 180.271C396.01 180.326 395.945 180.37 395.873 180.4C395.801 180.43 395.724 180.445 395.646 180.445C395.568 180.445 395.491 180.43 395.419 180.4C395.347 180.37 395.282 180.326 395.227 180.271L389.923 174.938C389.812 174.827 389.75 174.676 389.75 174.519C389.75 174.362 389.812 174.211 389.923 174.1L391.701 172.323C391.756 172.267 391.822 172.224 391.893 172.194C391.965 172.164 392.043 172.149 392.12 172.149C392.198 172.149 392.275 172.164 392.347 172.194C392.419 172.224 392.485 172.267 392.54 172.323L395.676 175.365Z" fill="#033A7B"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="413.75" y="178.16" font-family="Arimo">Include COSTO</tspan></text>
+<rect x="224.25" y="165.5" width="17" height="17" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="248.75" y="178.16" font-family="Arimo">QTB Include Dues-out</tspan></text>
+<rect x="33.5" y="315.5" width="468" height="152.077" rx="4.5" fill="#F4F4F4"/>
+<rect x="33.5" y="315.5" width="468" height="152.077" rx="4.5" stroke="#F0EFEF"/>
+<mask id="path-108-inside-6_10032_11612" fill="white">
+<path d="M43 335C43 332.239 45.2386 330 48 330H131.15C133.911 330 136.15 332.239 136.15 335V344.077C136.15 346.838 133.911 349.077 131.15 349.077H48C45.2386 349.077 43 346.838 43 344.077V335Z"/>
+</mask>
+<path d="M43 335C43 332.239 45.2386 330 48 330H131.15C133.911 330 136.15 332.239 136.15 335V344.077C136.15 346.838 133.911 349.077 131.15 349.077H48C45.2386 349.077 43 346.838 43 344.077V335Z" fill="#7C3CC0"/>
+<path d="M43 330H136.15H43M136.15 344.077C136.15 347.943 133.016 351.077 129.15 351.077H50C46.134 351.077 43 347.943 43 344.077C43 345.734 45.2386 347.077 48 347.077H131.15C133.911 347.077 136.15 345.734 136.15 344.077ZM136.15 344.077M43 349.077V330V349.077M43 349.077M136.15 330V349.077V330" fill="#034FA7" mask="url(#path-108-inside-6_10032_11612)"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="52.543" y="343.699" font-family="Arimo">Part Settings</tspan></text>
+<rect x="141.15" y="330" width="93.1534" height="19.0767" rx="5" fill="#EFEFEF"/>
+<text fill="#898989" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="145.27" y="343.699" font-family="Arimo">NEW Coverage</tspan></text>
+<rect x="239.303" y="330" width="93.1534" height="19.0767" rx="5" fill="#EFEFEF"/>
+<text fill="#898989" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="244.59" y="343.699" font-family="Arimo">USM Coverage</tspan></text>
+<line x1="43" y1="356.576" x2="487" y2="356.576" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="43" y="379.736" font-family="Arimo">SPLIT FACTOR</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="43" y="405.736" font-family="Arimo">Recommended quantity to buy</tspan></text>
+<path d="M217.5 394.576C216.214 394.576 214.958 394.957 213.889 395.672C212.82 396.386 211.987 397.401 211.495 398.589C211.003 399.776 210.874 401.083 211.125 402.344C211.376 403.605 211.995 404.763 212.904 405.672C213.813 406.581 214.971 407.2 216.232 407.451C217.493 407.702 218.8 407.573 219.987 407.081C221.175 406.589 222.19 405.756 222.905 404.687C223.619 403.618 224 402.362 224 401.076C223.998 399.353 223.313 397.701 222.094 396.482C220.876 395.263 219.223 394.578 217.5 394.576ZM217.5 406.576C216.412 406.576 215.349 406.254 214.444 405.649C213.54 405.045 212.835 404.186 212.419 403.181C212.002 402.176 211.893 401.07 212.106 400.003C212.318 398.936 212.842 397.956 213.611 397.187C214.38 396.418 215.36 395.894 216.427 395.682C217.494 395.47 218.6 395.579 219.605 395.995C220.61 396.411 221.469 397.116 222.073 398.021C222.677 398.925 223 399.988 223 401.076C222.998 402.534 222.418 403.932 221.387 404.963C220.356 405.995 218.958 406.575 217.5 406.576ZM218.5 404.076C218.5 404.209 218.447 404.336 218.354 404.43C218.26 404.523 218.133 404.576 218 404.576C217.735 404.576 217.48 404.471 217.293 404.283C217.105 404.096 217 403.841 217 403.576V401.076C216.867 401.076 216.74 401.023 216.646 400.93C216.553 400.836 216.5 400.709 216.5 400.576C216.5 400.444 216.553 400.316 216.646 400.223C216.74 400.129 216.867 400.076 217 400.076C217.265 400.076 217.52 400.182 217.707 400.369C217.895 400.557 218 400.811 218 401.076V403.576C218.133 403.576 218.26 403.629 218.354 403.723C218.447 403.816 218.5 403.944 218.5 404.076ZM216.5 398.326C216.5 398.178 216.544 398.033 216.626 397.909C216.709 397.786 216.826 397.69 216.963 397.633C217.1 397.576 217.251 397.562 217.396 397.591C217.542 397.62 217.675 397.691 217.78 397.796C217.885 397.901 217.957 398.034 217.986 398.18C218.015 398.325 218 398.476 217.943 398.613C217.886 398.75 217.79 398.867 217.667 398.95C217.543 399.032 217.398 399.076 217.25 399.076C217.051 399.076 216.86 398.997 216.72 398.857C216.579 398.716 216.5 398.525 216.5 398.326Z" fill="#878682"/>
+<rect x="331" y="394.076" width="79" height="15" rx="3" fill="#C0C0C0"/>
+<path d="M345 397.826V400.076C345 400.175 344.96 400.271 344.89 400.341C344.82 400.411 344.724 400.451 344.625 400.451H342.375C342.276 400.451 342.18 400.411 342.11 400.341C342.04 400.271 342 400.175 342 400.076C342 399.976 342.04 399.881 342.11 399.811C342.18 399.74 342.276 399.701 342.375 399.701H343.72L343.034 399.015C342.337 398.315 341.391 397.92 340.403 397.917H340.382C339.402 397.914 338.461 398.298 337.762 398.984C337.69 399.051 337.595 399.087 337.498 399.085C337.4 399.083 337.306 399.042 337.238 398.972C337.169 398.902 337.131 398.808 337.131 398.71C337.131 398.612 337.169 398.518 337.238 398.448C338.085 397.62 339.225 397.159 340.41 397.166C341.594 397.173 342.729 397.647 343.566 398.485L344.25 399.171V397.826C344.25 397.726 344.29 397.631 344.36 397.561C344.43 397.49 344.526 397.451 344.625 397.451C344.724 397.451 344.82 397.49 344.89 397.561C344.96 397.631 345 397.726 345 397.826ZM343.238 404.167C342.532 404.857 341.583 405.241 340.596 405.235C339.609 405.229 338.664 404.834 337.966 404.137L337.28 403.451H338.625C338.724 403.451 338.82 403.411 338.89 403.341C338.96 403.271 339 403.175 339 403.076C339 402.976 338.96 402.881 338.89 402.811C338.82 402.74 338.724 402.701 338.625 402.701H336.375C336.276 402.701 336.18 402.74 336.11 402.811C336.04 402.881 336 402.976 336 403.076V405.326C336 405.425 336.04 405.521 336.11 405.591C336.18 405.661 336.276 405.701 336.375 405.701C336.474 405.701 336.57 405.661 336.64 405.591C336.71 405.521 336.75 405.425 336.75 405.326V403.981L337.436 404.667C338.272 405.507 339.408 405.981 340.594 405.985H340.619C341.794 405.988 342.924 405.528 343.763 404.704C343.831 404.634 343.869 404.54 343.869 404.442C343.869 404.344 343.831 404.25 343.763 404.18C343.694 404.109 343.601 404.069 343.503 404.067C343.405 404.064 343.31 404.101 343.238 404.167H343.238Z" fill="#282828"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="348" y="405.043" font-family="Arimo">Recommend</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="423" y="405.736" font-family="Arimo">8 EA TOTAL</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="385" y="431.236" font-family="Arimo">USM: 3 EA</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="445.703" y="431.236" font-family="Arimo"> (37.5%)</tspan></text>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="261" y="430.543" font-family="Arimo">VS</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="43" y="431.236" font-family="Arimo">NEW: 5 EA</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="104.828" y="431.236" font-family="Arimo"> (62.5%)</tspan></text>
+<g clip-path="url(#clip15_10032_11612)">
+<rect width="449" height="7" rx="3.5" transform="matrix(-1 0 0 1 492 445.076)" fill="#EDEDED"/>
+<rect width="167" height="9" transform="matrix(-1 0 0 1 492 444.076)" fill="#4C7FFF"/>
+<rect width="296" height="9" transform="matrix(-1 0 0 1 324 444.076)" fill="#059669"/>
+</g>
+<g filter="url(#filter0_d_10032_11612)">
+<circle cx="323.5" cy="448.576" r="4.5" fill="white"/>
+<circle cx="323.5" cy="448.576" r="4" stroke="#F4F4F4"/>
+</g>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="33" y="291.16" font-family="Arimo">6mths baseline (min): </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="158" y="291.16" font-family="Arimo">12</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="210" y="291.16" font-family="Arimo">12mths baseline (max) | TARGET:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="401" y="291.16" font-family="Arimo">24</tspan></text>
+<rect x="33.25" y="489.5" width="468" height="22" rx="4.5" fill="#F4F4F4"/>
+<rect x="33.25" y="489.5" width="468" height="22" rx="4.5" stroke="#F0EFEF"/>
+<path d="M44.25 494C42.9644 494 41.7077 494.381 40.6388 495.095C39.5699 495.81 38.7368 496.825 38.2448 498.013C37.7528 499.2 37.6241 500.507 37.8749 501.768C38.1257 503.029 38.7448 504.187 39.6538 505.096C40.5628 506.005 41.721 506.624 42.9819 506.875C44.2428 507.126 45.5497 506.997 46.7374 506.505C47.9252 506.013 48.9403 505.18 49.6546 504.111C50.3688 503.042 50.75 501.786 50.75 500.5C50.7482 498.777 50.0628 497.124 48.8442 495.906C47.6256 494.687 45.9733 494.002 44.25 494ZM44.25 506C43.1622 506 42.0988 505.677 41.1944 505.073C40.2899 504.469 39.5849 503.61 39.1687 502.605C38.7524 501.6 38.6435 500.494 38.8557 499.427C39.0679 498.36 39.5917 497.38 40.3609 496.611C41.1301 495.842 42.1101 495.318 43.177 495.106C44.2439 494.893 45.3498 495.002 46.3548 495.419C47.3598 495.835 48.2187 496.54 48.8231 497.444C49.4274 498.349 49.75 499.412 49.75 500.5C49.7483 501.958 49.1684 503.356 48.1373 504.387C47.1062 505.418 45.7082 505.998 44.25 506ZM45.25 503.5C45.25 503.633 45.1973 503.76 45.1036 503.854C45.0098 503.947 44.8826 504 44.75 504C44.4848 504 44.2304 503.895 44.0429 503.707C43.8554 503.52 43.75 503.265 43.75 503V500.5C43.6174 500.5 43.4902 500.447 43.3964 500.354C43.3027 500.26 43.25 500.133 43.25 500C43.25 499.867 43.3027 499.74 43.3964 499.646C43.4902 499.553 43.6174 499.5 43.75 499.5C44.0152 499.5 44.2696 499.605 44.4571 499.793C44.6446 499.98 44.75 500.235 44.75 500.5V503C44.8826 503 45.0098 503.053 45.1036 503.146C45.1973 503.24 45.25 503.367 45.25 503.5ZM43.25 497.75C43.25 497.602 43.294 497.457 43.3764 497.333C43.4588 497.21 43.5759 497.114 43.713 497.057C43.85 497 44.0008 496.985 44.1463 497.014C44.2918 497.043 44.4254 497.115 44.5303 497.22C44.6352 497.325 44.7067 497.458 44.7356 497.604C44.7645 497.749 44.7497 497.9 44.6929 498.037C44.6361 498.174 44.54 498.291 44.4167 498.374C44.2933 498.456 44.1483 498.5 44 498.5C43.8011 498.5 43.6103 498.421 43.4697 498.28C43.329 498.14 43.25 497.949 43.25 497.75Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="11" font-style="italic" letter-spacing="0em"><tspan x="55.75" y="504.313" font-family="Arimo">Pending and drafts quantity are not added to overall coverage quantity.</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_10032_11612" x="317" y="444.076" width="13" height="13" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_10032_11612"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_10032_11612" result="shape"/>
+</filter>
+<clipPath id="clip0_10032_11612">
+<path d="M0 9.99998C0 4.47713 4.47715 0 10 0H535V731H10C4.47716 731 0 726.523 0 721V9.99998Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_10032_11612">
+<rect width="535" height="831" fill="white" transform="translate(0 80)"/>
+</clipPath>
+<clipPath id="clip2_10032_11612">
+<rect width="12" height="36" fill="white" transform="translate(48 622)"/>
+</clipPath>
+<clipPath id="clip3_10032_11612">
+<rect width="12" height="59" fill="white" transform="translate(75 599)"/>
+</clipPath>
+<clipPath id="clip4_10032_11612">
+<rect width="12" height="36" fill="white" transform="translate(102 622)"/>
+</clipPath>
+<clipPath id="clip5_10032_11612">
+<rect width="12" height="36" fill="white" transform="translate(129 622)"/>
+</clipPath>
+<clipPath id="clip6_10032_11612">
+<rect width="12" height="36" fill="white" transform="translate(156 622)"/>
+</clipPath>
+<clipPath id="clip7_10032_11612">
+<rect width="12" height="59" fill="white" transform="translate(183 599)"/>
+</clipPath>
+<clipPath id="clip8_10032_11612">
+<rect width="12" height="59" fill="white" transform="translate(210.5 599)"/>
+</clipPath>
+<clipPath id="clip9_10032_11612">
+<rect width="12" height="59" fill="white" transform="translate(237 599)"/>
+</clipPath>
+<clipPath id="clip10_10032_11612">
+<rect width="12" height="48" fill="white" transform="translate(264.5 610)"/>
+</clipPath>
+<clipPath id="clip11_10032_11612">
+<rect width="12" height="31" fill="white" transform="translate(291 627)"/>
+</clipPath>
+<clipPath id="clip12_10032_11612">
+<rect width="12" height="31" fill="white" transform="translate(318 627)"/>
+</clipPath>
+<clipPath id="clip13_10032_11612">
+<rect x="33.25" y="216" width="467" height="12" rx="6" fill="white"/>
+</clipPath>
+<clipPath id="clip14_10032_11612">
+<rect width="467" height="7" rx="3.5" transform="matrix(-1 0 0 1 500.25 230)" fill="white"/>
+</clipPath>
+<clipPath id="clip15_10032_11612">
+<rect width="449" height="7" rx="3.5" transform="matrix(-1 0 0 1 492 445.076)" fill="white"/>
+</clipPath>
+</defs>
+</svg>
