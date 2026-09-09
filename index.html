@@ -1,958 +1,252 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-  <!-- Google tag (gtag.js) -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <title>Teo Boon Hock — Creative & Visual Designer</title>
+  <meta name="description" content="Singapore-based multidisciplinary creative and visual designer with 17+ years across campaigns, digital design, motion, 3D, experiential visualisation and product UI.">
+  <meta property="og:title" content="Teo Boon Hock — Creative & Visual Designer">
+  <meta property="og:description" content="Campaigns, digital experiences, motion, 3D and visual systems — backed by 17+ years of multidisciplinary design practice.">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Keep the same GA4 property as your main portfolio. Remove this block if you want separate analytics. -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9H0DKMLRYG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
+    function gtag(){dataLayer.push(arguments)}
     gtag('js', new Date());
-
-    gtag('config', 'G-9H0DKMLRYG');
+    gtag('config','G-9H0DKMLRYG');
   </script>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Teo Boon Hock — UI/UX & Visual Designer</title>
-  <meta name="description"
-    content="UI/UX and visual designer with 17+ years across product UI, visual design, front-end, motion and 3D — combining polished digital craft with hands-on implementation experience.">
-
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
-    rel="stylesheet">
-
-  <!-- Bootstrap -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
-    rel="stylesheet">
-
-  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
-  <!-- ===== NAV ===== -->
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand" href="#top">
-        <span class="brand-mark">BH</span><span class="brand-full">·TEO</span>
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu"
-        aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="bi bi-list"></i>
-      </button>
-      <div class="collapse navbar-collapse justify-content-end" id="navMenu">
-        <ul class="navbar-nav align-items-lg-center gap-lg-1">
-          <li class="nav-item"><a class="nav-link" href="#work">Featured Work</a></li>
-          <li class="nav-item"><a class="nav-link" href="#craft">Visual &amp; Interactive</a></li>
-          <li class="nav-item"><a class="nav-link" href="#product-cases">Product Cases</a></li>
-          <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
-          <li class="nav-item"><a class="nav-link btn-contact" href="#contact">Contact</a></li>
-        </ul>
-      </div>
+  <nav class="nav" id="top">
+    <a class="brand" href="#top" aria-label="Back to top"><span>BH</span>·TEO</a>
+    <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false">Menu</button>
+    <div class="nav-links">
+      <a href="#work">Selected work</a>
+      <a href="#capabilities">Capabilities</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact" class="nav-cta">Contact</a>
     </div>
   </nav>
 
-  <!-- ===== HERO ===== -->
-  <header id="top" class="hero">
-    <div class="hero-grid" aria-hidden="true"></div>
-    <div class="container hero-inner">
-      <div class="row align-items-center">
-        <div class="col-lg-9">
-          <p class="hero-name reveal">Teo Boon Hock</p>
-          <p class="eyebrow reveal"><span class="eyebrow-dot"></span>UI/UX · VISUAL DESIGN · FRONT-END PROTOTYPING — SINGAPORE</p>
-          <h1 class="hero-title reveal">Designing clear, polished digital experiences.</h1>
-          <p class="hero-lede reveal">
-            UI/UX and visual designer with 17+ years of experience spanning digital products, visual design, web, motion and 3D. I create high-fidelity interfaces, visual systems and interactive prototypes, with hands-on front-end knowledge that helps bridge design and implementation.
-          </p>
-          <div class="hero-cta reveal">
-            <a href="#work" class="btn btn-ink">View featured work <i class="bi bi-arrow-down-right"></i></a>
-            <a href="mailto:hockie2@yahoo.com.sg" class="btn btn-outline-ink">Get in touch</a>
-          </div>
-          <ul class="sector-strip reveal" aria-label="Core capabilities">
-            <li>Product UI</li>
-            <li>Visual Systems</li>
-            <li>Front-End</li>
-            <li>Motion</li>
-            <li>3D</li>
-          </ul>
+  <main>
+    <header class="hero section-shell">
+      <p class="hero-kicker reveal">TEO BOON HOCK · SINGAPORE</p>
+      <h1 class="hero-title reveal">I make ideas <em>visible, tangible and digital.</em></h1>
+      <div class="hero-bottom reveal">
+        <p class="hero-lede">Multidisciplinary creative and visual designer with 17+ years across advertising, campaigns, web, motion, 3D, experiential visualisation and digital products. I bring broad craft, hands-on execution and the ability to move comfortably between brand expression and interactive experiences.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#work">View selected work</a>
+          <a class="btn btn-ghost" href="mailto:hockie2@yahoo.com.sg">Get in touch</a>
         </div>
       </div>
-    </div>
-  </header>
-
-  <!-- ===== CAPABILITIES ===== -->
-  <section class="capabilities">
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-4">
-          <p class="cap-label">01 — PRODUCT</p>
-          <h2 class="cap-heading">UI/UX &amp; Product Design</h2>
-          <p class="cap-copy">Figma, interaction design, user flows, information architecture, prototyping,
-            design systems, responsive UI and implementation-ready design.</p>
-        </div>
-        <div class="col-lg-4">
-          <p class="cap-label">02 — VISUAL</p>
-          <h2 class="cap-heading">Visual UI &amp; Digital Craft</h2>
-          <p class="cap-copy">Typography, layout and hierarchy, visual systems, graphics, campaign design,
-            motion direction and 3D visualisation.</p>
-        </div>
-        <div class="col-lg-4">
-          <p class="cap-label">03 — INTERACTIVE</p>
-          <h2 class="cap-heading">Front-End &amp; Prototyping</h2>
-          <p class="cap-copy">HTML/CSS/JavaScript, Bootstrap, React (working knowledge), Django, PostgreSQL and
-            exploratory Three.js/WebGL work.</p>
-        </div>
+      <div class="discipline-strip reveal" aria-label="Design disciplines">
+        <span>Campaign & Visual Design</span><span>Digital</span><span>Motion</span><span>3D</span><span>Experiential</span><span>Product UI</span>
       </div>
-    </div>
-  </section>
+    </header>
 
-  <!-- ===== FEATURED WORK ===== -->
-  <section id="work" class="work">
-    <div class="container">
-      <div class="section-head reveal">
-        <p class="section-label">FEATURED WORK</p>
-        <h2 class="section-title">Product thinking, visual craft and implementation.</h2>
-        <p class="section-sub">A focused selection showing how I work across professional product UI, hands-on
-          implementation, interactive front-end and visual motion work.</p>
+    <section id="work" class="work section-shell">
+      <div class="section-intro reveal">
+        <p class="eyebrow">SELECTED WORK</p>
+        <h2>Creative range, built over years of making.</h2>
+        <p>This portfolio leads with campaign, visual and experiential work. My recent product UI practice is included as an extension of that craft, not the whole story.</p>
       </div>
 
-      <!-- FEATURED 01 — ENGINE STREAM -->
-      <article class="case-study reveal">
-        <div class="row g-0 align-items-stretch">
-          <div class="col-lg-6 case-visual-col">
-            <a class="case-visual case-visual--photo" href="engine-stream.html" aria-label="Open Engine Stream case study">
-              <img src="images/uiux/thumbnails/engine-stream-nda-thumb.png"
-                alt="EngineStream Subcon Approval Hub presented on a soft blue-grey background" class="case-visual-img">
-            </a>
-          </div>
-          <div class="col-lg-6">
-            <div class="case-copy">
-              <span class="case-tag">PRODUCT UI · ENTERPRISE · AI INTERACTION</span>
-              <h3 class="case-title">Engine Stream — Subcontract Module</h3>
-              <p class="case-role">Sole UX/UI Designer (End-to-end) · Component 1 of 11</p>
-              <p class="case-p">A professional enterprise product case study spanning an internal approval workbench,
-                an airline customer portal and a phased human-in-the-loop approach to introducing AI into a
-                high-stakes aerospace workflow.</p>
-              <div class="case-tools">
-                <span>Product UI</span><span>Enterprise application</span><span>AI interaction</span><span>Visual systems</span>
-              </div>
-              <a class="btn-readmore" href="engine-stream.html">
-                Read full case study <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
+      <article class="feature feature-dark reveal">
+        <div class="feature-media media-m1">
+          <img src="https://hockie2.github.io/portfolio/images/visual-motion/cons_01.gif" alt="M1 animated campaign banner" loading="eager">
+        </div>
+        <div class="feature-copy">
+          <p class="project-no">01 / DIGITAL CAMPAIGNS</p>
+          <h3>M1 — Campaign Design & Motion</h3>
+          <p class="project-role">Visual design · Digital campaign assets · Motion graphics · Interactive eDM</p>
+          <p>Campaign work across promotional banners, gamified eDMs and animated digital touchpoints. The work combines strong visual hierarchy with motion and front-end awareness so ideas survive the journey from key visual to live digital execution.</p>
+          <div class="tag-row"><span>Campaign</span><span>Motion</span><span>Digital</span><span>Front-end</span></div>
+          <div class="project-actions">
+            <button class="text-link" data-modal="m1-modal">View campaign gallery ↗</button>
+            <a class="text-link" href="https://hockie2.github.io/portfolio/web/Christmas-Gamification-EDM2/launch_edm_01_responsive.html" target="_blank" rel="noopener">Open live eDM ↗</a>
           </div>
         </div>
       </article>
 
-      <!-- FEATURED 02 — EPRS -->
-      <article class="case-study case-study--flip reveal">
-        <div class="row g-0 align-items-stretch flex-lg-row-reverse">
-          <div class="col-lg-6 case-visual-col">
-            <a class="case-visual case-visual--photo" href="eprs.html" aria-label="Open EPRS project">
-              <img src="images/frontend/eprs/landing-nda-thumb.png"
-                alt="EPRS Engines Project Request System landing dashboard" class="case-visual-img">
-            </a>
+      <div class="project-grid">
+        <article class="project-card reveal">
+          <button class="project-thumb" data-modal="geneco-modal" aria-label="View Geneco campaign gallery">
+            <img src="https://hockie2.github.io/portfolio/images/brand-campaign/fivesta/fivesta-thumb.jpg" alt="Geneco FiveSta campaign artwork" loading="lazy">
+          </button>
+          <div class="project-copy">
+            <p class="project-no">02 / BRAND & CAMPAIGN</p>
+            <h3>Geneco — Campaign Design</h3>
+            <p>Campaign layouts, key visuals and supporting digital artwork developed across promotional initiatives including FiveSta and PowerUp.</p>
+            <button class="text-link" data-modal="geneco-modal">View project gallery ↗</button>
           </div>
-          <div class="col-lg-6">
-            <div class="case-copy">
-              <span class="case-tag">PRODUCT UI · IMPLEMENTATION</span>
-              <h3 class="case-title">EPRS — Engines Project Request System</h3>
-              <p class="case-role">Figma design + Django &amp; PostgreSQL implementation</p>
-              <p class="case-p">Designed the interface in Figma and implemented it as a working internal application
-                using Django and PostgreSQL. The live enterprise system cannot be shared publicly, so the portfolio
-                shows anonymised product screens.</p>
-              <div class="case-tools">
-                <span>Figma</span><span>UI design</span><span>Django</span><span>PostgreSQL</span>
-              </div>
-              <a class="btn-readmore" href="eprs.html">
-                View project screens <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
+        </article>
+
+        <article class="project-card reveal">
+          <button class="project-thumb" data-modal="experience-modal" aria-label="View experiential design gallery">
+            <img src="https://hockie2.github.io/portfolio/images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_01.jpg" alt="3D experiential event floorplan visualisation" loading="lazy">
+          </button>
+          <div class="project-copy">
+            <p class="project-no">03 / EXPERIENTIAL</p>
+            <h3>Events — Spatial Visualisation</h3>
+            <p>3D visualisation used to turn event concepts and layouts into convincing pre-build views for stakeholders, production teams and clients.</p>
+            <button class="text-link" data-modal="experience-modal">View project gallery ↗</button>
           </div>
-        </div>
-      </article>
+        </article>
 
-      <!-- FEATURED 03 — RETIREMENT CALCULATOR -->
-      <article class="case-study reveal">
-        <div class="row g-0 align-items-stretch">
-          <div class="col-lg-6 case-visual-col">
-            <a class="case-visual case-visual--photo" href="https://hockie2.github.io/picoed2/" target="_blank" rel="noopener"
-              aria-label="Open Retirement Calculator interactive project">
-              <img src="images/frontend/financial_calculator.jpg" alt="Retirement Calculator interactive web tool"
-                class="case-visual-img">
-            </a>
+        <article class="project-card reveal">
+          <button class="project-thumb" data-modal="film-modal" aria-label="View advertising 3D and VFX work">
+            <img src="https://hockie2.github.io/portfolio/images/visual-motion/hp-happyboss_upscayl_1x_upscayl-standard-4x.png" alt="HP Happy Boss Happy Earth commercial still" loading="lazy">
+          </button>
+          <div class="project-copy">
+            <p class="project-no">04 / ADVERTISING CRAFT</p>
+            <h3>HP, Sony Ericsson & Vaseline — 3D / VFX</h3>
+            <p>Commercial production work spanning 3D modelling, texturing, product visualisation and VFX for regional and international brands.</p>
+            <button class="text-link" data-modal="film-modal">Watch selected work ↗</button>
           </div>
-          <div class="col-lg-6">
-            <div class="case-copy">
-              <span class="case-tag">INTERACTIVE · FRONT-END</span>
-              <h3 class="case-title">Retirement Calculator</h3>
-              <p class="case-role">React · CSS · JavaScript</p>
-              <p class="case-p">A public interactive browser tool that turns financial inputs into a usable retirement
-                estimate — included here as direct, clickable evidence of hands-on front-end work alongside design.</p>
-              <div class="case-tools">
-                <span>React</span><span>JavaScript</span><span>CSS</span><span>Interactive UI</span>
-              </div>
-              <a class="btn-readmore" href="https://hockie2.github.io/picoed2/" target="_blank" rel="noopener">
-                Open interactive project <i class="bi bi-arrow-up-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </article>
+        </article>
 
-      <!-- FEATURED 04 — M1 MOTION -->
-      <article class="case-study case-study--flip reveal">
-        <div class="row g-0 align-items-stretch flex-lg-row-reverse">
-          <div class="col-lg-6 case-visual-col">
-            <a class="case-visual case-visual--photo" href="#galleryM1Motion" data-bs-toggle="modal"
-              aria-label="Open M1 Motion Graphics gallery">
-              <img src="images/visual-motion/cons_01.gif" alt="M1 animated campaign banner" class="case-visual-img">
-            </a>
-          </div>
-          <div class="col-lg-6">
-            <div class="case-copy">
-              <span class="case-tag">VISUAL DESIGN · MOTION</span>
-              <h3 class="case-title">M1 Motion Graphics</h3>
-              <p class="case-role">Digital campaign design &amp; animation</p>
-              <p class="case-p">Animated campaign work for M1 across digital touchpoints, showing the visual craft,
-                timing and image-making background I bring into interface and interactive design today.</p>
-              <div class="case-tools">
-                <span>Motion graphics</span><span>Digital design</span><span>Animation</span><span>Visual storytelling</span>
-              </div>
-              <a class="btn-readmore" href="#galleryM1Motion" data-bs-toggle="modal">
-                View motion work <i class="bi bi-play-fill"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </article>
-
-    </div>
-  </section>
-
-   <!-- ===== MORE PRODUCT CASE STUDIES ===== -->
-  <section id="product-cases" class="work">
-    <div class="container">
-      <span id="more-ui-ux-work"></span>
-      <div class="section-head reveal">
-        <p class="section-label">MORE PRODUCT CASE STUDIES</p>
-        <h2 class="section-title">Deeper enterprise product work.</h2>
-        <p class="section-sub">Additional UI/UX work that proves depth in complex applications without letting one
-          domain dominate the first impression of the portfolio.</p>
-      </div>
-
-      <div class="row g-4 mini-case-row reveal">
-        <div class="col-md-6">
-          <div class="mini-case">
-            <a class="mini-case-visual" href="materials-provisioning.html">
-              <img src="images/uiux/thumbnails/materials-provisioning-nda-thumb.png"
-                alt="Materials Provisioning workspace" class="img-fluid">
-            </a>
-            <div class="mini-case-copy">
-              <span class="case-tag">PRODUCT UI · SUPPLY CHAIN</span>
-              <h4 class="mini-case-title">Materials Provisioning App</h4>
-              <p class="mini-case-role">Sole UX/UI Designer (End-to-end)</p>
-              <p class="mini-case-p">A predictive purchasing workspace consolidating five spreadsheets into one
-                decision environment for pre-induction parts planning.</p>
-              <div class="case-tools"><span>Data-dense UI</span><span>Forecasting</span><span>Enterprise UX</span></div>
-              <a class="btn-readmore" href="materials-provisioning.html">
-                Read full case study <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="mini-case">
-            <a class="mini-case-visual" href="materials-ops.html">
-              <img src="images/uiux/thumbnails/materials-ops-nda-thumb.png"
-                alt="Materials Ops outstanding materials workspace" class="img-fluid">
-            </a>
-            <div class="mini-case-copy">
-              <span class="case-tag">PRODUCT UI · OPERATIONS</span>
-              <h4 class="mini-case-title">Materials Ops App</h4>
-              <p class="mini-case-role">Sole UX/UI Designer (End-to-end)</p>
-              <p class="mini-case-p">A live shortage-tracking workspace with alternate parts, two fulfilment modes
-                and a shared approval cart replacing email-based sign-off.</p>
-              <div class="case-tools"><span>Dense tables</span><span>Progressive disclosure</span><span>Workflow UI</span></div>
-              <a class="btn-readmore" href="materials-ops.html">
-                Read full case study <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="mini-case">
-            <a class="mini-case-visual" href="sales-pipeline.html">
-              <img src="images/uiux/thumbnails/sales-pipeline-nda-thumb.png"
-                alt="Sales pipeline and engine forecast workspace" class="img-fluid">
-            </a>
-            <div class="mini-case-copy">
-              <span class="case-tag">PRODUCT UI · DASHBOARD</span>
-              <h4 class="mini-case-title">Sales Pipeline &amp; Engine Forecast</h4>
-              <p class="mini-case-role">Sole UX/UI Designer (End-to-end)</p>
-              <p class="mini-case-p">A role-tailored sales workspace replacing a shared spreadsheet with live,
-                auditable views for directors, account managers and sales support.</p>
-              <div class="case-tools"><span>Role-based UI</span><span>Dashboard design</span><span>Audit trail</span></div>
-              <a class="btn-readmore" href="sales-pipeline.html">
-                Read full case study <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="mini-case">
-            <a class="mini-case-visual" href="maintenance-app.html">
-              <img src="images/frontend/maintenance/meters-nda-thumb.png"
-                alt="AeroFlow Maintenance Application meters dashboard" class="img-fluid">
-              <span class="play-badge" title="View project screens"><i class="bi bi-images"></i></span>
-            </a>
-            <div class="mini-case-copy">
-              <span class="case-tag">UI/UX · APP FLOW</span>
-              <h4 class="mini-case-title">Maintenance App</h4>
-              <p class="mini-case-role">Figma — Interface design &amp; app flow</p>
-              <p class="mini-case-p">Screen designs and app flow for a facilities maintenance platform tracking
-                assets, utility meter readings and requests from report through resolution.</p>
-              <div class="case-tools"><span>Figma</span><span>App flow</span><span>UI design</span></div>
-              <a class="btn-readmore" href="maintenance-app.html">
-                View project screens <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  
-  <!-- ===== VISUAL & INTERACTIVE WORK ===== -->
-  <section id="craft" class="craft">
-    <div class="container">
-      <div class="section-head reveal">
-        <p class="section-label">VISUAL &amp; INTERACTIVE WORK</p>
-        <h2 class="section-title">A wider range of things I have designed, built and animated.</h2>
-        <p class="section-sub">Front-end experiments, working web projects, digital campaigns, motion and 3D —
-          not a separate past career, but craft that continues to shape how I approach digital products.</p>
-      </div>
-
-      <div class="craft-filters reveal" role="tablist" aria-label="Filter visual and interactive work">
-        <button class="filter-btn active" data-filter="all">All</button>
-        <button class="filter-btn" data-filter="web">Interactive / Front-End</button>
-        <button class="filter-btn" data-filter="visual">Visual Design</button>
-        <button class="filter-btn" data-filter="motion">Motion / 3D</button>
-      </div>
-
-      <div class="craft-grid reveal" id="craftGrid">
-
-        <!-- Interactive / Front-End -->
-        <a class="craft-item" data-cat="web" href="https://hockie2.github.io/Project_01/" target="_blank"
-          rel="noopener">
-          <img src="images/frontend/project_01.jpg" alt="Whack-a-Mole browser game" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Whack-a-Mole</span><span class="craft-sub">HTML · CSS ·
-              JavaScript</span></div>
-          <span class="play-badge" title="Open interactive project"><i class="bi bi-box-arrow-up-right"></i></span>
-        </a>
-        <a class="craft-item" data-cat="web" href="https://hockie2.github.io/engine/" target="_blank" rel="noopener">
-          <img src="images/frontend/threejs-engine-thumbnail.png"
-            alt="Three.js engine experiment — exploratory and incomplete" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Three.js Engine Experiment</span><span class="craft-sub">Three.js
-              · WebGL · Exploratory / incomplete</span></div>
-          <span class="play-badge" title="Open experiment"><i class="bi bi-box-arrow-up-right"></i></span>
-        </a>
-        <button type="button" class="craft-item craft-item--modal" data-cat="web" data-bs-toggle="modal"
-          data-bs-target="#galleryToxinology">
-          <img src="images/frontend/banner2.jpg"
-            alt="22nd World Congress of the International Society on Toxinology conference site" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">ISST 2024 Congress Site</span><span class="craft-sub">PHP ·
-              phpMyAdmin</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="web" data-bs-toggle="modal"
-          data-bs-target="#galleryDurianBingo">
-          <img src="images/frontend/bingo_gif.gif"
-            alt="Durian Bingo internal engagement app showing a bingo number grid with an employee ID panel"
-            loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Durian Bingo</span><span class="craft-sub">Internal tool · Frontend UI &amp; JS · Co-developed</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-
-        <!-- Visual Design -->
-        <a class="craft-item" data-cat="visual" href="web/Christmas-Gamification-EDM2/launch_edm_01_responsive.html"
-          target="_blank" rel="noopener">
-          <img src="images/frontend/christmas-gamification.png" alt="M1 Christmas Gamification EDM campaign design"
-            loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Christmas Gamification — M1</span><span
-              class="craft-sub">Gamified campaign eDM</span></div>
-          <span class="play-badge" title="Open EDM"><i class="bi bi-box-arrow-up-right"></i></span>
-        </a>
-        <a class="craft-item" data-cat="visual" href="web/Daily-Passport/esim_highdata.html" target="_blank"
-          rel="noopener">
-          <img src="images/frontend/daily-passport.png" alt="M1 Daily Passport eSIM campaign design" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Daily Passport — M1</span><span class="craft-sub">eSIM
-              product campaign eDM</span></div>
-          <span class="play-badge" title="Open EDM"><i class="bi bi-box-arrow-up-right"></i></span>
-        </a>
-        <a class="craft-item" data-cat="visual" href="web/Stamping-Reward/stamping_01_responsive.html" target="_blank"
-          rel="noopener">
-          <img src="images/frontend/stamping.png" alt="M1 Stamping Reward campaign design" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Stamping Reward — M1</span><span class="craft-sub">Loyalty
-              rewards campaign eDM</span></div>
-          <span class="play-badge" title="Open EDM"><i class="bi bi-box-arrow-up-right"></i></span>
-        </a>
-        <button type="button" class="craft-item craft-item--modal" data-cat="visual" data-bs-toggle="modal"
-          data-bs-target="#galleryPowerup">
-          <img src="images/frontend/powersavings.jpg" alt="Geneco PowerUp webpage layout" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Geneco PowerUp</span><span class="craft-sub">Webpage
-              Layout</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="visual" data-bs-toggle="modal"
-          data-bs-target="#galleryFiveSta">
-          <img src="images/brand-campaign/fivesta/fivesta-thumb.jpg" alt="FiveSta graphic design artwork"
-            loading="lazy">
-          <div class="craft-meta"><span class="craft-title">FiveSta Artwork</span><span class="craft-sub">Graphic
-              Design</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-
-        <!-- Motion / 3D -->
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#videoHappyBoss">
-          <img src="images/visual-motion/hp-happyboss_upscayl_1x_upscayl-standard-4x.png"
-            alt="HP Happy Boss Happy Earth animation still" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">HP — Happy Boss, Happy Earth</span><span
-              class="craft-sub">3D Animation</span></div>
-          <span class="play-badge" title="Watch video"><i class="bi bi-play-fill"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#videoHpMini">
-          <img src="images/visual-motion/hp-mini.jpg" alt="HP Mini animation still" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">HP Mini</span><span class="craft-sub">3D Animation</span>
-          </div>
-          <span class="play-badge" title="Watch video"><i class="bi bi-play-fill"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#videoSonyEricsson">
-          <img src="images/visual-motion/sony-ericsson.jpg" alt="Sony Ericsson k550i animation still" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Sony Ericsson k550i</span><span class="craft-sub">3D
-              Animation</span></div>
-          <span class="play-badge" title="Watch video"><i class="bi bi-play-fill"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#videoVaselineAloe">
-          <img src="images/visual-motion/vaseline01.jpg" alt="Vaseline Aloe animation still" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Vaseline Aloe</span><span class="craft-sub">3D
-              Animation</span></div>
-          <span class="play-badge" title="Watch video"><i class="bi bi-play-fill"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#galleryFloorplan">
-          <img src="images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_01.jpg"
-            alt="Photorealistic 3D event floorplan rendering" loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Event Floorplan Rendering</span><span class="craft-sub">3D
-              Visualisation</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-        <button type="button" class="craft-item craft-item--modal" data-cat="motion" data-bs-toggle="modal"
-          data-bs-target="#galleryProduct">
-          <img src="images/visual-motion/events/wine/FCA_Wine_V1_01.jpg" alt="Photorealistic 3D product rendering"
-            loading="lazy">
-          <div class="craft-meta"><span class="craft-title">Product Rendering</span><span class="craft-sub">3D
-              Visualisation</span></div>
-          <span class="play-badge" title="View project gallery"><i class="bi bi-images"></i></span>
-        </button>
-
-      </div>
-
-      <div class="craft-more reveal">
-        <a href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">More animation on YouTube <i
-            class="bi bi-arrow-up-right"></i></a>
-        <a href="https://www.deviantart.com/hockie/gallery" target="_blank" rel="noopener">More 3D &amp; graphics on
-          DeviantArt <i class="bi bi-arrow-up-right"></i></a>
-      </div>
-    </div>
-  </section>
-
- 
-
-  <!-- ===== EXPERIENCE ===== -->
-  <section id="experience" class="experience">
-    <div class="container">
-      <div class="section-head reveal">
-        <p class="section-label">TRACK RECORD</p>
-        <h2 class="section-title">My years shaping visual and digital experiences.</h2>
-      </div>
-
-      <div class="timeline reveal">
-        <div class="tl-row">
-          <div class="tl-date">2025 — Present</div>
-          <div class="tl-body">
-            <h3>UI/UX Designer (Contract)</h3>
-            <p class="tl-org">ST Engineering Group IT — Aerospace Engines</p>
-            <p class="tl-desc">Design for shopfloor scheduling, materials operations and provisioning apps; part of an
-              Agile team modernising legacy MRO tools.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">Sep — Nov 2024</div>
-          <div class="tl-body">
-            <h3>Senior Designer</h3>
-            <p class="tl-org">FirstCom Academy</p>
-            <p class="tl-desc mb-2">Marketing assets and photorealistic 3D venue visualisations for learner recruitment
-              campaigns.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">2020 — 2024</div>
-          <div class="tl-body">
-            <h3>Senior Graphics &amp; Web Designer</h3>
-            <p class="tl-org">Hg Advertising Pte Ltd</p>
-            <p class="tl-desc">Led integrated digital and print campaigns; built responsive client sites and a PHP
-              backend that automated client follow-ups.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">2020</div>
-          <div class="tl-body">
-            <h3>Visual Designer (Contract)</h3>
-            <p class="tl-org">Continental Automotive Singapore</p>
-            <p class="tl-desc">Production-ready HMI artwork for Nissan digital instrument clusters, to automotive
-              production and safety standards.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">2018 — 2019</div>
-          <div class="tl-body">
-            <h3>3D &amp; Event Designer</h3>
-            <p class="tl-org">Lighthouse Independent Media</p>
-            <p class="tl-desc">Stage graphics, event branding and 3D visualisation for regional conferences and awards
-              shows.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">2013 — 2017</div>
-          <div class="tl-body">
-            <h3>Senior 3D Designer</h3>
-            <p class="tl-org">Adrenalin Group Pte Ltd</p>
-            <p class="tl-desc">Led visual design for large public and corporate events, including three consecutive
-              years on The Purple Parade.</p>
-          </div>
-        </div>
-        <div class="tl-row">
-          <div class="tl-date">2006 — 2009</div>
-          <div class="tl-body">
-            <h3>3D / VFX Artist</h3>
-            <p class="tl-org">Blackmagic Design</p>
-            <p class="tl-desc">3D models, textures and VFX for TV commercials for HP, Canon, HSBC and Sony Ericsson. HP
-              "Hypergirl" recognised by OnScreenAsia 2009.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="edu-row reveal">
-        <div class="edu-col">
-          <p class="cap-label">EDUCATION</p>
-          <p class="edu-item"><strong>National University of Singapore</strong> — B.A. Social Work</p>
-          <p class="edu-item"><strong>General Assembly</strong> — Software Engineering Immersive</p>
-          <p class="edu-item"><strong>Nanyang Polytechnic</strong> — Dip. Digital Media Design (Animation), with Merit
-          </p>
-          <p class="edu-award">Mediacorp Bronze Medal (Outstanding Academic Performance) · Lucasfilm Animation Singapore
-            Award (Outstanding Project Work)</p>
-        </div>
-        <div class="edu-col">
-          <p class="cap-label">WHERE THE BACKGROUNDS MEET</p>
-          <p class="edu-item">An unusual pairing, but a useful one — understanding the need, shaping the visual
-            experience, and knowing enough about implementation to bring an idea to life. Digital product design is
-            where those strengths now meet.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ===== CONTACT / FOOTER ===== -->
-  <footer id="contact" class="footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-7">
-          <p class="section-label">GET IN TOUCH</p>
-          <h2 class="footer-title">Need a digital experience that looks as good as it works?</h2>
-          <div class="footer-links">
-            <a href="mailto:hockie2@yahoo.com.sg"><i class="bi bi-envelope"></i> hockie2@yahoo.com.sg</a>
-            <a href="tel:+6594305700"><i class="bi bi-telephone"></i> +65 9430 5700</a>
-            <a href="https://linkedin.com/in/hockie" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i>
-              linkedin.com/in/hockie</a>
-          </div>
-        </div>
-        <div class="col-lg-5">
-          <p class="cap-label">SINGAPORE · ENGLISH · CHINESE</p>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <span>© 2026 Teo Boon Hock</span>
-      </div>
-    </div>
-  </footer>
-
-  <!-- ===== GALLERY MODALS ===== -->
-  <div class="modal fade gallery-modal" id="galleryFloorplan" tabindex="-1" aria-labelledby="galleryFloorplanLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryFloorplanLabel">Event Floorplan Rendering</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Photorealistic 3D floorplan visualisations produced for event and venue
-            walkthroughs — helping stakeholders sign off on a layout before a single booth was built.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_01.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Image 1 of 3 — full booth area overview</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_02.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Image 2 of 3 — left entrance &amp; discussion area</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_03.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Image 3 of 3 — back of booth area</figcaption>
-            </figure>
-          </div>
-          <a class="gallery-outlink" href="https://www.deviantart.com/hockie/gallery/57219667/3d" target="_blank"
-            rel="noopener">
-            View 3d visualisations on DeviantArt <i class="bi bi-arrow-up-right"></i>
+        <article class="project-card reveal">
+          <a class="project-thumb" href="https://hockie2.github.io/portfolio/#product-cases" target="_blank" rel="noopener">
+            <img src="https://hockie2.github.io/portfolio/images/uiux/thumbnails/engine-stream-nda-thumb.png" alt="Enterprise product UI case study" loading="lazy">
           </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="modal fade gallery-modal" id="galleryProduct" tabindex="-1" aria-labelledby="galleryProductLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryProductLabel">Product Rendering</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Photorealistic product visualisation work — conceptualisation before fabrication.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/wine/FCA_floorplan_V2_04.png" class="img-fluid">
-              <figcaption class="gallery-caption">Image 1 of 4 — overview event floorplan</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/wine/FCA_floorplan_V2_01.png" class="img-fluid">
-              <figcaption class="gallery-caption">Image 2 of 4 — closeup of a floor space</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/visual-motion/events/wine/FCA_floorplan_V2_05.png" class="img-fluid">
-              <figcaption class="gallery-caption">Image 3 of 4 — closeup of a display area</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <div class="imgBkg"><img src="images/visual-motion/events/wine/FCA_Wine_V1_01.jpg" class="img-fluid"
-                  style="width: 100%; max-width: 400px;">
-              </div>
-              <figcaption class="gallery-caption">Image 4 of 4 — product detail</figcaption>
-            </figure>
+          <div class="project-copy">
+            <p class="project-no">05 / DIGITAL PRODUCT</p>
+            <h3>Enterprise Product UI</h3>
+            <p>Recent work designing complex operational interfaces, data-dense workflows and visual systems for aerospace applications — extending my visual practice into product design.</p>
+            <a class="text-link" href="https://hockie2.github.io/portfolio/#product-cases" target="_blank" rel="noopener">View product case studies ↗</a>
           </div>
-          <a class="gallery-outlink" href="https://www.deviantart.com/hockie/gallery/57219667/3d" target="_blank"
-            rel="noopener">
-            View 3d visualisations on DeviantArt <i class="bi bi-arrow-up-right"></i>
-          </a>
+        </article>
+      </div>
+    </section>
+
+    <section class="statement section-shell reveal">
+      <p class="eyebrow">HOW I WORK</p>
+      <blockquote>Broad craft is useful when the idea has to survive across formats.</blockquote>
+      <p>I have worked across print, events, 3D, animation, web and product UI. That breadth lets me think beyond a single deliverable: how a visual idea behaves on screen, in motion, in space, and in the details of execution.</p>
+    </section>
+
+    <section id="capabilities" class="capabilities section-shell">
+      <div class="section-intro reveal">
+        <p class="eyebrow">CAPABILITIES</p>
+        <h2>Senior hands-on craft across creative and digital.</h2>
+      </div>
+      <div class="cap-grid">
+        <div class="cap reveal"><span>01</span><h3>Visual & Campaign Design</h3><p>Key visuals, campaign systems, layout, typography, digital assets, eDMs, marketing collateral and production-ready artwork.</p></div>
+        <div class="cap reveal"><span>02</span><h3>Motion & 3D</h3><p>Motion graphics, 3D modelling, texturing, rendering, VFX, product visualisation and event/spatial visualisation.</p></div>
+        <div class="cap reveal"><span>03</span><h3>Digital & Interactive</h3><p>Responsive web design, HTML/CSS/JavaScript, Bootstrap, interactive prototypes and enough front-end fluency to collaborate closely with implementation.</p></div>
+        <div class="cap reveal"><span>04</span><h3>Product UI</h3><p>Figma, visual systems, data-dense interfaces, workflow design and high-fidelity prototyping for enterprise applications.</p></div>
+      </div>
+    </section>
+
+    <section id="experience" class="experience section-shell">
+      <div class="section-intro reveal">
+        <p class="eyebrow">EXPERIENCE</p>
+        <h2>A career across visual communication, digital and making.</h2>
+      </div>
+      <div class="timeline">
+        <div class="timeline-row reveal"><div class="timeline-date">2025 — Present</div><div><h3>UI/UX Designer (Contract)</h3><p class="org">ST Engineering Group IT — Aerospace Engines</p><p>Designing visual systems and operational interfaces for enterprise aerospace applications.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">Sep — Nov 2024</div><div><h3>Senior Designer</h3><p class="org">FirstCom Academy</p><p>Marketing assets and photorealistic 3D venue visualisations for learner-recruitment campaigns.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">2020 — 2024</div><div><h3>Senior Graphics & Web Designer</h3><p class="org">Hg Advertising Pte Ltd</p><p>Integrated digital and print campaigns, responsive client websites and hands-on digital production.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">2020</div><div><h3>Visual Designer (Contract)</h3><p class="org">Continental Automotive Singapore</p><p>Production-ready HMI artwork for Nissan digital instrument clusters.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">2018 — 2019</div><div><h3>3D & Event Designer</h3><p class="org">Lighthouse Independent Media</p><p>Stage graphics, event branding and 3D visualisation for regional conferences and awards shows.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">2013 — 2017</div><div><h3>Senior 3D Designer</h3><p class="org">Adrenalin Group Pte Ltd</p><p>Visual design for large public and corporate events, including three consecutive years on The Purple Parade.</p></div></div>
+        <div class="timeline-row reveal"><div class="timeline-date">2006 — 2009</div><div><h3>3D / VFX Artist</h3><p class="org">Blackmagic Design</p><p>3D models, textures and VFX for commercials including HP, Canon, HSBC and Sony Ericsson. HP “Hypergirl” was recognised by OnScreenAsia in 2009.</p></div></div>
+      </div>
+
+      <div class="education reveal">
+        <p class="eyebrow">EDUCATION & TRAINING</p>
+        <div class="education-grid">
+          <p><strong>General Assembly</strong><br>Software Engineering Immersive</p>
+          <p><strong>National University of Singapore</strong><br>B.A. Social Work</p>
+          <p><strong>Nanyang Polytechnic</strong><br>Diploma in Digital Media Design (Animation), with Merit<br><small>Mediacorp Bronze Medal · Lucasfilm Animation Singapore Award</small></p>
         </div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact section-shell reveal">
+      <p class="eyebrow">CONTACT</p>
+      <h2>For creative, visual and digital design opportunities.</h2>
+      <p class="contact-copy">I’m interested in senior hands-on roles where broad visual craft, digital experience and practical execution are valued.</p>
+      <div class="contact-links">
+        <a href="mailto:hockie2@yahoo.com.sg">hockie2@yahoo.com.sg ↗</a>
+        <a href="https://linkedin.com/in/hockie" target="_blank" rel="noopener">LinkedIn ↗</a>
+        <a href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">YouTube ↗</a>
+        <a href="https://www.deviantart.com/hockie/gallery" target="_blank" rel="noopener">DeviantArt ↗</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer section-shell"><span>© 2026 Teo Boon Hock</span><a href="#top">Back to top ↑</a></footer>
+
+  <!-- M1 -->
+  <div class="modal" id="m1-modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="m1-title">
+      <button class="modal-close" data-close-modal aria-label="Close">×</button>
+      <p class="eyebrow">M1 · DIGITAL CAMPAIGNS</p><h2 id="m1-title">Campaign Design & Motion</h2>
+      <p class="modal-intro">Selected animated and interactive campaign work produced across M1 digital touchpoints.</p>
+      <div class="gallery-stack">
+        <figure><video src="https://hockie2.github.io/portfolio/images/visual-motion/beat_gst_01.mp4" autoplay muted loop playsinline controls></video><figcaption>“Beat the GST” promotional animation.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/visual-motion/web_banner_1440x671_04.gif" alt="M1 travel eSIM campaign banner"><figcaption>Daily / Data Passport travel eSIM campaign.</figcaption></figure>
+        <figure><video src="https://hockie2.github.io/portfolio/images/visual-motion/m1-juicydeals.mp4" autoplay muted loop playsinline controls></video><figcaption>“Juicy Deals” promotional animation.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/visual-motion/cons_01.gif" alt="M1 perks campaign animation"><figcaption>M1 perks overview banner.</figcaption></figure>
       </div>
     </div>
   </div>
 
-  <div class="modal fade gallery-modal" id="galleryPowerup" tabindex="-1" aria-labelledby="galleryPowerupLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryPowerupLabel">Geneco Powerup Campaign Page</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Graphic layout artwork produced for the Geneco FiveSta campaign page, spanning
-            key visuals and supporting layout variations.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <img src="images/brand-campaign/powersavings/powersavings_Page_1.jpg"
-                alt="Powerup campaign key visual with product and tagline" class="gallery-image img-fluid">
-              <figcaption class="gallery-caption">Image 1 of 1 — desktop and mobile layouts</figcaption>
-            </figure>
-          </div>
-          <a class="gallery-outlink" href="https://www.deviantart.com/hockie/gallery" target="_blank" rel="noopener">
-            View more campaign designs on DeviantArt <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
+  <!-- Geneco -->
+  <div class="modal" id="geneco-modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="geneco-title">
+      <button class="modal-close" data-close-modal aria-label="Close">×</button>
+      <p class="eyebrow">GENECO · CAMPAIGN DESIGN</p><h2 id="geneco-title">Promotional Visual Systems</h2>
+      <p class="modal-intro">A selection of campaign layouts and digital artwork spanning promotional key visuals and supporting executions.</p>
+      <div class="gallery-stack">
+        <figure><img src="https://hockie2.github.io/portfolio/images/brand-campaign/fivesta/geneco-fiesta_Page_01.jpg" alt="Geneco FiveSta campaign artwork"><figcaption>FiveSta campaign — primary visual.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/brand-campaign/fivesta/geneco-fiesta_Page_02.jpg" alt="Geneco FiveSta campaign layout"><figcaption>FiveSta campaign — supporting layout.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/brand-campaign/powersavings/powersavings_Page_1.jpg" alt="Geneco PowerUp campaign page"><figcaption>PowerUp campaign — desktop and mobile layout.</figcaption></figure>
       </div>
     </div>
   </div>
 
-  <div class="modal fade gallery-modal" id="galleryFiveSta" tabindex="-1" aria-labelledby="galleryFiveStaLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryFiveStaLabel">Geneco FiveSta Artwork</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Graphic design artwork produced for the Geneco FiveSta campaign, spanning
-            key visuals and supporting layout variations.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <img src="images/brand-campaign/fivesta/geneco-fiesta_Page_03.jpg"
-                alt="Geneco FiveSta campaign key visual with product and tagline" class="gallery-image img-fluid">
-              <figcaption class="gallery-caption">Image 1 of 4 — social media assets</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/brand-campaign/fivesta/geneco-fiesta_Page_09.jpg"
-                alt="Geneco FiveSta supporting collateral" class="gallery-image img-fluid">
-              <figcaption class="gallery-caption">Image 2 of 4 — supporting collateral</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/brand-campaign/fivesta/geneco-fiesta_Page_10.jpg"
-                alt="Geneco FiveSta supporting collateral" class="gallery-image img-fluid">
-              <figcaption class="gallery-caption">Image 3 of 4 — supporting collateral</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/brand-campaign/fivesta/geneco-fiesta_Page_08.jpg"
-                alt="Geneco FiveSta supporting collateral" class="gallery-image img-fluid">
-              <figcaption class="gallery-caption">Image 4 of 4 — supporting collateral</figcaption>
-            </figure>
-          </div>
-          <a class="gallery-outlink" href="https://www.deviantart.com/hockie/gallery" target="_blank" rel="noopener">
-            View more campaign designs on DeviantArt <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
+  <!-- Experiential -->
+  <div class="modal" id="experience-modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="experience-title">
+      <button class="modal-close" data-close-modal aria-label="Close">×</button>
+      <p class="eyebrow">EXPERIENTIAL · 3D VISUALISATION</p><h2 id="experience-title">Making spaces visible before they exist</h2>
+      <p class="modal-intro">Event and venue visualisation used to communicate layouts, atmosphere and production intent before fabrication.</p>
+      <div class="gallery-stack">
+        <figure><img src="https://hockie2.github.io/portfolio/images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_01.jpg" alt="Event floorplan render overview"><figcaption>Full event area overview.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_02.jpg" alt="Event render discussion area"><figcaption>Entrance and discussion area.</figcaption></figure>
+        <figure><img src="https://hockie2.github.io/portfolio/images/visual-motion/events/smarthome/FCA_SmartHome_floorplan_V1_03.jpg" alt="Event render booth area"><figcaption>Back-of-booth view.</figcaption></figure>
       </div>
     </div>
   </div>
 
-  <div class="modal fade gallery-modal" id="galleryDurianBingo" tabindex="-1" aria-labelledby="galleryDurianBingoLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryDurianBingoLabel">Durian Bingo</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">A light, playful internal engagement app — interaction design, front-end build and reward animations, co-developed with a backend engineer outside the core MRO product line.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <div class="imgBkg gap-3 d-flex flex-wrap justify-content-center align-items-center">
-                <img src="images/frontend/durianBingo.gif" style="max-height: 600px;"
-                  alt="Durian Bingo bingo number grid with latest numbers strip and employee ID panel"
-                  class="gallery-image">
-                <video autoplay loop muted playsinline class="gallery-video" style="max-height: 600px;">
-                  <source src="images/frontend/bingo-video.mp4" type="video/mp4">
-                  Your browser does not support the video tag.
-                </video>
-              </div>
-              <figcaption class="gallery-caption">Main bingo grid</figcaption>
-            </figure>
-          </div>
-        </div>
+  <!-- Commercials -->
+  <div class="modal" id="film-modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="film-title">
+      <button class="modal-close" data-close-modal aria-label="Close">×</button>
+      <p class="eyebrow">ADVERTISING · 3D / VFX</p><h2 id="film-title">Selected commercial work</h2>
+      <p class="modal-intro">Hands-on 3D, product visualisation and VFX work for advertising production.</p>
+      <div class="video-grid">
+        <figure><div class="video-frame"><iframe src="https://www.youtube.com/embed/6SMSQRhjzr8" title="HP Happy Boss Happy Earth" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><figcaption>HP — Happy Boss, Happy Earth</figcaption></figure>
+        <figure><div class="video-frame"><iframe src="https://www.youtube.com/embed/kvtCWrxV42U" title="HP Mini" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><figcaption>HP Mini</figcaption></figure>
+        <figure><div class="video-frame"><iframe src="https://www.youtube.com/embed/Im_mIm4jfF4" title="Sony Ericsson k550i" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><figcaption>Sony Ericsson k550i</figcaption></figure>
+        <figure><div class="video-frame"><iframe src="https://www.youtube.com/embed/ki7KUj5Gx0U" title="Vaseline Aloe" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><figcaption>Vaseline Aloe</figcaption></figure>
       </div>
     </div>
   </div>
 
-  <div class="modal fade gallery-modal" id="galleryToxinology" tabindex="-1" aria-labelledby="galleryToxinologyLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryToxinologyLabel">World Congress of Toxinology — Conference Site</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Website design and build for a five-day international academic congress hosted
-            by NUS, covering registration, programme scheduling, speaker information, and venue wayfinding for
-            delegates from over 40 countries.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <img src="images/frontend/nus-toxinology/screen-landing.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Screen 1 of 5 — landing page</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/frontend/nus-toxinology/screen-speakers.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Screen 2 of 5 — speaker directory</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/frontend/nus-toxinology/screen-program-schedule.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Screen 3 of 5 — programme schedule</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/frontend/nus-toxinology/screen-venue-map.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Screen 4 of 5 — venue map</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img src="images/frontend/nus-toxinology/screen-footer.jpg" class="img-fluid">
-              <figcaption class="gallery-caption">Screen 5 of 5 — footer</figcaption>
-            </figure>
-          </div>
-          <a class="gallery-outlink" href="web/nus-toxinology/index.html" target="_blank" rel="noopener">
-            See full website <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- ===== VIDEO MODALS ===== -->
-  <div class="modal fade video-modal" id="videoHappyBoss" tabindex="-1" aria-labelledby="videoHappyBossLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="videoHappyBossLabel">HP — Happy Boss, Happy Earth</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="video-embed">
-            <iframe data-video-src="https://www.youtube.com/embed/6SMSQRhjzr8" src=""
-              title="HP — Happy Boss, Happy Earth"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen loading="lazy"></iframe>
-          </div>
-          <p class="video-desc">A CSR-themed HP TV commercial pairing office productivity with environmental
-            responsibility. Handled 3D modelling, texturing and VFX.</p>
-          <a class="gallery-outlink" href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">
-            More videos on YouTube <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="modal fade video-modal" id="videoHpMini" tabindex="-1" aria-labelledby="videoHpMiniLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="videoHpMiniLabel">HP Mini</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="video-embed">
-            <iframe data-video-src="https://www.youtube.com/embed/kvtCWrxV42U" src="" title="HP Mini"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen loading="lazy"></iframe>
-          </div>
-          <p class="video-desc">A product commercial for the HP Mini netbook, built around 3D product visualisation and
-            VFX compositing.</p>
-          <a class="gallery-outlink" href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">
-            More videos on YouTube <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="modal fade video-modal" id="videoSonyEricsson" tabindex="-1" aria-labelledby="videoSonyEricssonLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="videoSonyEricssonLabel">Sony Ericsson k550i</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="video-embed">
-            <iframe data-video-src="https://www.youtube.com/embed/Im_mIm4jfF4" src="" title="Sony Ericsson k550i"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen loading="lazy"></iframe>
-          </div>
-          <p class="video-desc">A launch commercial for the Sony Ericsson K550i handset, combining 3D product renders
-            with VFX.</p>
-          <a class="gallery-outlink" href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">
-            More videos on YouTube <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="modal fade video-modal" id="videoVaselineAloe" tabindex="-1" aria-labelledby="videoVaselineAloeLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="videoVaselineAloeLabel">Vaseline Aloe</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="video-embed">
-            <iframe data-video-src="https://www.youtube.com/embed/ki7KUj5Gx0U" src="" title="Vaseline Aloe"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen loading="lazy"></iframe>
-          </div>
-          <p class="video-desc">A TV commercial for Vaseline's Aloe Vera lotion range, with 3D and VFX work supporting
-            the product hero shots.</p>
-          <a class="gallery-outlink" href="https://www.youtube.com/@hockie3/videos" target="_blank" rel="noopener">
-            More videos on YouTube <i class="bi bi-arrow-up-right"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="modal fade gallery-modal" id="galleryM1Motion" tabindex="-1" aria-labelledby="galleryM1MotionLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-xl">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2 class="modal-title" id="galleryM1MotionLabel">M1 Motion Graphics</h2>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="gallery-intro">Motion graphics and campaign banners produced for M1.</p>
-          <div class="gallery-stack">
-            <figure class="gallery-figure">
-              <video class="gallery-video" src="images/visual-motion/beat_gst_01.mp4" autoplay muted loop
-                preload="metadata" playsinline></video>
-              <figcaption class="gallery-caption">"Beat the GST" promo animation, encouraging customers to lock in a
-                plan before the price increase took effect</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img class="gallery-image" style="width:100%;" src="images/visual-motion/web_banner_1440x671_04.gif"
-                alt="M1 Daily / Data Passport travel eSIM campaign banner" loading="lazy">
-              <figcaption class="gallery-caption">Hero banner for M1's Daily/Data Passport travel eSIM plan, promoting
-                free overseas accident protection</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <video class="gallery-video" src="images/visual-motion/m1-juicydeals.mp4" autoplay muted loop
-                preload="metadata" playsinline></video>
-              <figcaption class="gallery-caption">"Juicy Deals" promo animation for a limited-time M1 offer, built
-                around a fruit-themed visual hook</figcaption>
-            </figure>
-            <figure class="gallery-figure">
-              <img class="gallery-image" style="width:100%;" src="images/visual-motion/cons_01.gif"
-                alt="M1 perks overview banner showing FREE True 5G, M1 Cashback and M1 Treats" loading="lazy">
-              <figcaption class="gallery-caption">Perks overview banner highlighting M1's FREE True 5G, M1 Cashback and
-                M1 Treats benefits</figcaption>
-            </figure>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <button id="backToTopBtn" title="Back to top">↑</button>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
   <script src="script.js"></script>
 </body>
-
 </html>
